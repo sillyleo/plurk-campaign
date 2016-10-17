@@ -1,0 +1,22 @@
+{
+  "name": "plurk-campaign",
+  "version": "1.0.0",
+  "description": "campaign page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.3",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-mustache": "^2.3.0",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "dependencies": {
+    "mustache": "^2.2.1"
+  }
+}
