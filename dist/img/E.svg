@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="658px" height="824px" viewBox="0 0 658 824" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="820px" height="824px" viewBox="0 0 820 824" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
     <title>E</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="合作社" transform="translate(-160.000000, -2014.000000)">
-            <g id="E" transform="translate(160.000000, 2010.000000)">
-                <g id="問答" transform="translate(0.000000, 40.000000)" font-size="14">
+        <g id="合作社" transform="translate(-80.000000, -2014.000000)">
+            <g id="E" transform="translate(80.000000, 2010.000000)">
+                <g id="問答" transform="translate(80.000000, 40.000000)" font-size="14">
                     <text id="答案" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal" fill="#9B9B9B">
                         <tspan x="0" y="46">不需要！你可以張貼任何拍賣網站的連結（包括手打）在自己的河道上，只是不會有特殊顯示，也不會出現</tspan>
                         <tspan x="0" y="66">在商品河道上。</tspan>
@@ -16,7 +16,7 @@
                         <tspan x="0" y="15">我一定要連結手打帳號才可以販賣嗎？</tspan>
                     </text>
                 </g>
-                <g id="問答" transform="translate(0.000000, 680.000000)" font-size="14">
+                <g id="問答" transform="translate(80.000000, 680.000000)" font-size="14">
                     <text id="答案" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal" fill="#9B9B9B">
                         <tspan x="0" y="46">目前已有五種徽章可以獲得：「生意人」、「認真王」、「我任性」、「小老闆」、「好賣家」，另有未公</tspan>
                         <tspan x="0" y="66">開之神秘徽章企劃中。</tspan>
@@ -25,7 +25,7 @@
                         <tspan x="0" y="15">我可以獲得哪些徽章？</tspan>
                     </text>
                 </g>
-                <g id="問答" transform="translate(0.000000, 140.000000)" font-size="14">
+                <g id="問答" transform="translate(80.000000, 140.000000)" font-size="14">
                     <text id="答案" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal" fill="#9B9B9B">
                         <tspan x="0" y="46">連接帳號後，我們才能夠啟用深入整合的功能。</tspan>
                     </text>
@@ -33,7 +33,7 @@
                         <tspan x="0" y="15">為何需要連接噗浪與手打帳號？</tspan>
                     </text>
                 </g>
-                <g id="問答" transform="translate(0.000000, 480.000000)" font-size="14">
+                <g id="問答" transform="translate(80.000000, 480.000000)" font-size="14">
                     <text id="答案" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal" fill="#9B9B9B">
                         <tspan x="0" y="46">不會。我們只會追蹤「24 小時內透過噗浪成交的訂單」。來自其他網站的訂單一樣維持免費，你可以放心</tspan>
                         <tspan x="0" y="66">的張貼到其他網站。</tspan>
@@ -42,7 +42,7 @@
                         <tspan x="0" y="15">把同樣的商品連結，張貼到其他地方販售，還會收費嗎？</tspan>
                     </text>
                 </g>
-                <g id="問答" transform="translate(0.000000, 580.000000)" font-size="14">
+                <g id="問答" transform="translate(80.000000, 580.000000)" font-size="14">
                     <text id="答案" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal" fill="#9B9B9B">
                         <tspan x="0" y="46">ATM 免費，信用卡金流手續費2.8%（銀行收取），推廣手續費 5%（只限噗浪訂單），撥款時間是每月的 </tspan>
                         <tspan x="0" y="66">6, 16, 26 日。</tspan>
@@ -51,7 +51,7 @@
                         <tspan x="0" y="15">手打拍賣的金流費用與撥款期間為何？</tspan>
                     </text>
                 </g>
-                <g id="問答" transform="translate(0.000000, 780.000000)" font-size="14">
+                <g id="問答" transform="translate(80.000000, 780.000000)" font-size="14">
                     <text id="答案" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal" fill="#9B9B9B">
                         <tspan x="0" y="46">詳細說明請參考「手打拍賣使用手冊」。</tspan>
                     </text>
@@ -59,7 +59,7 @@
                         <tspan x="0" y="15">想了解更多？</tspan>
                     </text>
                 </g>
-                <g id="問答" transform="translate(0.000000, 220.000000)" font-size="14">
+                <g id="問答" transform="translate(80.000000, 220.000000)" font-size="14">
                     <text id="答案" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal" fill="#9B9B9B">
                         <tspan x="0" y="46">透過連結帳號後上架的商品，會獲得來自噗浪額外的曝光機會；使用手打拍賣的商品則不包含額外曝光。</tspan>
                     </text>
@@ -67,7 +67,7 @@
                         <tspan x="0" y="15">透過噗打合作社上架的商品，和單純使用手打拍賣有何差異？</tspan>
                     </text>
                 </g>
-                <g id="問答" transform="translate(0.000000, 300.000000)" font-size="14">
+                <g id="問答" transform="translate(80.000000, 300.000000)" font-size="14">
                     <text id="答案" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal" fill="#9B9B9B">
                         <tspan x="0" y="46">目前不行。 商品河道等功能優先保留給有推廣需求的賣家使用。</tspan>
                     </text>
@@ -75,7 +75,7 @@
                         <tspan x="0" y="15">我可以連結噗浪帳號，上架到商品河道上，卻又不使用推廣服務嗎？</tspan>
                     </text>
                 </g>
-                <g id="問答" transform="translate(0.000000, 380.000000)" font-size="14">
+                <g id="問答" transform="translate(80.000000, 380.000000)" font-size="14">
                     <text id="答案" font-family="PingFangTC-Regular, PingFang TC" font-weight="normal" fill="#9B9B9B">
                         <tspan x="0" y="46">客人透過噗浪網站，點擊過你的其中一個商品，並且在 24 小時內下定單給你（品項不限），則視為推廣成</tspan>
                         <tspan x="0" y="66">功。</tspan>
@@ -85,7 +85,7 @@
                     </text>
                 </g>
                 <text id="問與答" font-family="PingFangTC-Medium, PingFang TC" font-size="18" font-weight="400" fill="#000000">
-                    <tspan x="2" y="19">問與答</tspan>
+                    <tspan x="82" y="19">問與答</tspan>
                 </text>
             </g>
         </g>
