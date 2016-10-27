@@ -5,7 +5,9 @@ body {
 
 .logo-holder {
   text-align: center;
-  width: 100%; }
+  width: 100%;
+  min-width: 820px;
+  background: red; }
 
 .logo {
   margin: 30px auto;
