@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="67px" viewBox="0 0 173 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>F</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="173" height="67"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="173" height="67" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="合作社" transform="translate(-160.000000, -3016.000000)">
+            <g id="F" transform="translate(160.000000, 3016.000000)">
+                <use id="Rectangle-8" stroke="#FDD768" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+                <text id="馬上開始" font-family="PingFangTC-Medium, PingFang TC" font-size="18" font-weight="400" letter-spacing="6.4000001" fill="#000000">
+                    <tspan x="41.3999999" y="40">馬上開</tspan>
+                    <tspan x="114.6" y="40">始</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="661px" height="323px" viewBox="0 0 661 323" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>C</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="82.538175 0 165.07635 144.120968 0 144.120968"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="165.07635" height="144.120968" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <ellipse id="path-3" cx="72.1396648" cy="72.0604839" rx="72.1396648" ry="72.0604839"></ellipse>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="144.27933" height="144.120968" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="合作社" transform="translate(-162.000000, -961.000000)">
+            <g id="C" transform="translate(162.000000, 961.000000)">
+                <g id="Group-10-Copy" transform="translate(184.000000, 70.000000)"></g>
+                <g id="Group-10-Copy-2" transform="translate(452.000000, 70.000000)"></g>
+                <g id="Group-8" opacity="0.200000003" transform="translate(184.000000, 70.000000)">
+                    <path d="M-2.27373675e-12,9 L25,9" id="Line-Copy-2" stroke="#000000" stroke-width="6" stroke-linecap="square" stroke-dasharray="5,10" transform="translate(12.500000, 9.000000) scale(1, -1) translate(-12.500000, -9.000000) "></path>
+                    <polygon id="Triangle" fill="#000000" transform="translate(30.500000, 9.000000) rotate(90.000000) translate(-30.500000, -9.000000) " points="30.5 3.5 39.5 14.5 21.5 14.5"></polygon>
+                </g>
+                <g id="Group-8" opacity="0.200000003" transform="translate(452.000000, 70.000000)">
+                    <path d="M-2.27373675e-12,9 L25,9" id="Line-Copy-2" stroke="#000000" stroke-width="6" stroke-linecap="square" stroke-dasharray="5,10" transform="translate(12.500000, 9.000000) scale(1, -1) translate(-12.500000, -9.000000) "></path>
+                    <polygon id="Triangle" fill="#000000" transform="translate(30.500000, 9.000000) rotate(90.000000) translate(-30.500000, -9.000000) " points="30.5 3.5 39.5 14.5 21.5 14.5"></polygon>
+                </g>
+                <text id="上架到「商品河道」後，噗浪會將你的商品放" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="25" letter-spacing="0.400000006" fill="#000000">
+                    <tspan x="1" y="268">上架到「商品河道」後，噗浪會將你的商品放到官方河道上，並且透過各種方式在站內曝光。如果有客</tspan>
+                    <tspan x="1" y="293">人透過噗浪曝光而成功購買商品，則會收取 5% 推廣手續費；若不是透過噗浪，而是透過其他管道，如 </tspan>
+                    <tspan x="1" y="318">Facebook、或是商品網址直接購買，則不會收取推廣費用。詳細規則請參考問與答。</tspan>
+                </text>
+                <text id="噗浪推廣成功，只要-5%-手續費" font-family="PingFangTC-Medium, PingFang TC" font-size="27" font-weight="400" line-spacing="41" letter-spacing="4.5999999" fill="#000000">
+                    <tspan x="0" y="226">噗浪推廣成功，只要 5% 手續費</tspan>
+                </text>
+                <path d="M476,205 L486,217 L466,217 L476,205 Z M476,191 L486,203 L466,203 L476,191 Z M476,177 L486,189 L466,189 L476,177 Z" id="Combined-Shape" fill="#FDD768"></path>
+                <g id="Group-6" transform="translate(0.000000, 0.596774)">
+                    <use id="Triangle-3" stroke="#000000" mask="url(#mask-2)" stroke-width="13" xlink:href="#path-1"></use>
+                    <g id="Group-3" transform="translate(53.292365, 52.306452)" font-size="26" font-family="PingFangTC-Semibold, PingFang TC" letter-spacing="5.99999995" fill="#000000" font-weight="500">
+                        <text id="上架">
+                            <tspan x="16.4953445" y="28">上</tspan>
+                            <tspan x="16.4953445" y="65">架</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-12" transform="translate(251.000000, 3.000000)" fill="#000000">
+                    <g id="Group-6-Copy" transform="translate(40.294227, 58.427419)" font-size="26" font-family="PingFangTC-Semibold, PingFang TC" letter-spacing="5.99999995" font-weight="500">
+                        <g id="Group-3">
+                            <text id="曝光">
+                                <tspan x="6.66946001" y="28">曝光</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <path d="M73.4394786,-1.13686838e-13 L79.9385475,-1.13686838e-13 L79.9385475,18.1774194 L73.4394786,18.1774194 L73.4394786,-1.13686838e-13 Z M112.214347,8.63833511 L117.842706,11.8878696 L108.753996,27.6299765 L103.125637,24.380442 L112.214347,8.63833511 Z M141.47023,35.48824 L144.719765,41.1165987 L128.977658,50.2053084 L125.728124,44.5769496 L141.47023,35.48824 Z M153.368039,73.3553043 L153.368039,79.8543732 L135.19062,79.8543732 L135.19062,73.3553043 L153.368039,73.3553043 Z M144.719765,112.093079 L141.47023,117.721437 L125.728124,108.632728 L128.977658,103.004369 L144.719765,112.093079 Z M117.842706,141.321808 L112.214347,144.571342 L103.125637,128.829235 L108.753996,125.579701 L117.842706,141.321808 Z M79.9385475,153.209677 L73.4394786,153.209677 L73.4394786,135.032258 L79.9385475,135.032258 L79.9385475,153.209677 Z M41.1636793,144.571342 L35.5353205,141.321808 L44.6240302,125.579701 L50.252389,128.829235 L41.1636793,144.571342 Z M11.9077956,117.721437 L8.65826114,112.093079 L24.4003681,103.004369 L27.6499025,108.632728 L11.9077956,117.721437 Z M0.00998678441,79.8543732 L0.00998678441,73.3553043 L18.1874061,73.3553043 L18.1874061,79.8543732 L0.00998678441,79.8543732 Z M8.65826114,41.1165987 L11.9077956,35.48824 L27.6499025,44.5769496 L24.4003681,50.2053084 L8.65826114,41.1165987 Z M35.5353205,11.8878696 L41.1636793,8.63833511 L50.252389,24.380442 L44.6240302,27.6299765 L35.5353205,11.8878696 Z" id="Rectangle-7"></path>
+                </g>
+                <g id="Group-15" transform="translate(512.821229, 5.491935)">
+                    <g id="Group-13" transform="translate(0.000000, 0.000000)">
+                        <g id="Group-3" transform="translate(9.098696, 35.056452)" font-size="26" font-family="PingFangTC-Semibold, PingFang TC" letter-spacing="5.99999995" fill="#000000" font-weight="500">
+                            <text id="成功-交易">
+                                <tspan x="32.9906891" y="28">成功</tspan>
+                                <tspan x="32.9906891" y="65">交易</tspan>
+                            </text>
+                        </g>
+                        <use id="Oval-2" stroke="#000000" mask="url(#mask-4)" stroke-width="13" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Group-14" transform="translate(93.586592, 99.975806)">
+                        <ellipse id="Oval" fill="#000000" cx="27.2960894" cy="27.266129" rx="27.2960894" ry="27.266129"></ellipse>
+                        <text id="5" font-family="PingFangTC-Semibold, PingFang TC" font-size="26" font-weight="500" letter-spacing="5.99999995" fill="#FFFFFF">
+                            <tspan x="13.5463687" y="37.3870968">5</tspan>
+                        </text>
+                        <text id="%" font-family="PingFangTC-Semibold, PingFang TC" font-size="15.6" font-weight="500" letter-spacing="3.6000001" fill="#FFFFFF">
+                            <tspan x="29.0755203" y="35.4758065">%</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

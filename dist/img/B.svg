@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="704px" height="320px" viewBox="0 0 704 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>B</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40" height="40" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="35" y="0" width="205" height="100"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="205" height="100" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="381" height="320"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="381" height="320" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="合作社" transform="translate(-117.000000, -510.000000)">
+            <g id="B" transform="translate(120.000000, 510.000000)">
+                <g id="Group-10" transform="translate(272.000000, 112.000000)"></g>
+                <text id="連結噗浪與手打帳號後，即可將商品上架到專" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="25" letter-spacing="0.400000006" fill="#000000">
+                    <tspan x="39" y="236">連結噗浪與手打帳號後，即可將商品</tspan>
+                    <tspan x="39" y="261">上架到專屬「商品河道」。商品河道</tspan>
+                    <tspan x="39" y="286">上的商品擁有特殊顯示，點一下可放</tspan>
+                    <tspan x="39" y="311">大，並可直接購買，不需離開噗浪。</tspan>
+                </text>
+                <g id="Group" transform="translate(40.000000, 1.000000)">
+                    <use id="Rectangle-5" stroke="#000000" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+                    <use id="Rectangle-5-Copy" stroke="#000000" mask="url(#mask-4)" stroke-width="10" xlink:href="#path-3"></use>
+                    <rect id="Rectangle-5-Copy-2" fill="#FDD768" x="170" y="65" width="65" height="30"></rect>
+                    <text id="$$$" font-family="Arial-Black, Arial Black" font-size="13.71" font-weight="700" letter-spacing="3" fill="#EDA026">
+                        <tspan x="186.283306" y="85">$$$</tspan>
+                    </text>
+                    <rect id="Rectangle-6" fill="#000000" opacity="0.200000003" x="49" y="14" width="71.1434343" height="71"></rect>
+                    <rect id="Rectangle-3" fill="#000000" opacity="0.200000003" x="140" y="20" width="80" height="5"></rect>
+                    <rect id="Rectangle-3-Copy-4" fill="#000000" opacity="0.200000003" x="140" y="30" width="80" height="5"></rect>
+                    <rect id="Rectangle-4" fill="#000000" opacity="0.200000003" x="11" y="12" width="5" height="5"></rect>
+                    <rect id="Rectangle-4-Copy" fill="#000000" opacity="0.200000003" x="24" y="12" width="5" height="5"></rect>
+                    <rect id="Rectangle-4-Copy-2" fill="#000000" opacity="0.200000003" x="11" y="24" width="18" height="5"></rect>
+                </g>
+                <g id="Group-5" transform="translate(320.000000, 0.000000)">
+                    <use id="Rectangle" stroke="#000000" mask="url(#mask-6)" stroke-width="10" xlink:href="#path-5"></use>
+                    <rect id="Rectangle-6" fill="#000000" opacity="0.200000003" x="22.3460411" y="20" width="336.307918" height="196"></rect>
+                    <g id="Group-2" opacity="0.200000003" transform="translate(22.346041, 230.000000)" fill="#000000">
+                        <rect id="Rectangle-3" x="0" y="0" width="224.577713" height="5"></rect>
+                        <rect id="Rectangle-3-Copy" x="0" y="10" width="224.577713" height="5"></rect>
+                    </g>
+                    <g id="Group-4" transform="translate(21.346041, 260.000000)">
+                        <rect id="Rectangle-5-Copy-3" fill="#FDD768" x="0.653958944" y="0" width="134" height="40"></rect>
+                        <text id="馬上購買" font-family="PingFangTC-Semibold, PingFang TC" font-size="16" font-weight="500" letter-spacing="3.69230747" fill="#EDA026">
+                            <tspan x="29.2121592" y="26">馬上購買</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-8" opacity="0.200000003" transform="translate(272.000000, 112.000000)">
+                    <polyline id="Line-Copy-2" stroke="#000000" stroke-width="6" stroke-linecap="square" stroke-dasharray="5,10" transform="translate(12.500000, 8.467285) scale(1, -1) translate(-12.500000, -8.467285) " points="-2.27373675e-12 16 -2.27373675e-12 0.934570312 25 0.934570312"></polyline>
+                    <polygon id="Triangle" fill="#000000" transform="translate(30.500000, 16.000000) rotate(90.000000) translate(-30.500000, -16.000000) " points="30.5 10.5 39.5 21.5 21.5 21.5"></polygon>
+                </g>
+                <text id="商品河道" font-family="PingFangTC-Medium, PingFang TC" font-size="27" font-weight="400" line-spacing="41" letter-spacing="4.5999999" fill="#000000">
+                    <tspan x="39" y="194">商品河道</tspan>
+                </text>
+                <g id="Group-11" opacity="0.900000036" transform="translate(0.000000, 126.000000)" stroke-linecap="square" stroke-width="3.5" stroke="#FDD768">
+                    <polyline id="Line" points="0.0767121011 22.5210829 10.0642834 12.4472617 20.1863468 22.5210829 30.2784138 12.2666667 40.296965 22.5210829 50.5682728 12.4472617 60.5420753 22.5210829 70.6075881 12.2666667 81.0986328 23"></polyline>
+                    <polyline id="Line-Copy" points="0.0767121011 10.2544162 10.0642834 0.180594994 20.1863468 10.2544162 30.2784138 0 40.296965 10.2544162 50.5682728 0.180594994"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
