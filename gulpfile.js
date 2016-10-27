@@ -30,7 +30,7 @@ gulp.task('sass', function(){
 gulp.task('watch', ['browserSync', 'sass', 'nunjucks'], function (){
   gulp.watch('src/**/*.scss', ['sass']);
   gulp.watch('src/**/*.html', ['nunjucks']);
-})
+});
 
 gulp.task('browserSync', function() {
   browserSync.init({
@@ -38,4 +38,8 @@ gulp.task('browserSync', function() {
       baseDir: 'dist'
     },
   })
-})
+});
+
+// gulp.task('default', function (){
+//   gulp.watch();
+// });
