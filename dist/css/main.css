@@ -16,7 +16,7 @@ body {
 
 .overlay {
   width: 820px;
-  height: 2892px;
+  height: 3040px;
   position: absolute;
   top: 18px;
   background: url("../img/overlay.png") no-repeat 18px 10px; }
@@ -26,7 +26,7 @@ body {
   background: white no-repeat 18px 7px;
   border: 6px solid #EAEAEA;
   margin: 0 auto 0px auto;
-  padding: 102px 0 180px 0;
+  padding: 102px 0 100px 0;
   width: 820px;
   display: flex;
   flex-direction: column;
@@ -50,11 +50,11 @@ body {
     margin: 0 auto;
     height: 120px;
     display: flex;
-    align-items: center;
-    padding-left: 80px; }
+    align-items: center; }
     #dock .dock-content a {
-      display: block; }
-    #dock .dock-content .g {
-      margin-left: 49px; }
-    #dock .dock-content .h {
+      display: block;
       margin-left: 43px; }
+    #dock .dock-content .g {
+      margin-left: 46px; }
+    #dock .dock-content .h {
+      margin-left: 51px; }

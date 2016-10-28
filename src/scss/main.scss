@@ -19,7 +19,7 @@ body {
 
 .overlay {
 	width: 820px;
-	height: 2892px;
+	height: 3040px;
 	position: absolute;
 	top: 18px;
 	background: url("../img/overlay.png") no-repeat 18px 10px;
@@ -29,7 +29,7 @@ body {
 	background: white no-repeat 18px 7px;
 	border: 6px solid #EAEAEA;
 	margin: 0 auto 0px auto;
-	padding: 102px 0 180px 0;
+	padding: 102px 0 100px 0;
 	width: 820px;
 	display: flex;
 	flex-direction: column;
@@ -57,15 +57,15 @@ body {
 		height: 120px;
 		display: flex;
 		align-items: center;
-		padding-left: 80px;
 		a {
 			display: block;
+			margin-left: 43px;
 		}
 		.g {
-			margin-left: 49px;
+			margin-left: 46px;
 		}
 		.h {
-			margin-left: 43px;
+			margin-left: 51px;
 		}
 	}
 }
