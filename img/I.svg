@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="132px" viewBox="0 0 134 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>I</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="I">
+            <g id="Group-20" transform="translate(18.000000, 0.000000)">
+                <circle id="Oval-3" fill="#F8D56E" cx="49.5" cy="49.5" r="49.5"></circle>
+                <polygon id="Triangle-4" fill="#9F6B00" transform="translate(54.500000, 49.500000) rotate(90.000000) translate(-54.500000, -49.500000) " points="54.5 32 76 67 33 67"></polygon>
+            </g>
+            <text id="30-秒看懂噗打合作社" font-family="PingFangTC-Semibold, PingFang TC" font-size="14" font-weight="500" line-spacing="25" letter-spacing="0.100000001" fill="#9F9F9F">
+                <tspan x="0" y="127">30 秒看懂噗打合作社</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
