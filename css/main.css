@@ -1,0 +1,62 @@
+body {
+  background: #F4F4F4;
+  margin: 0;
+  position: 0;
+  -webkit-transform: scael(0.4); }
+
+.logo-holder {
+  text-align: center;
+  width: 100%;
+  min-width: 820px; }
+
+.logo {
+  margin: 30px auto;
+  width: 132px;
+  height: 38px;
+  display: block; }
+
+.overlay {
+  width: 820px;
+  height: 2996px;
+  position: absolute;
+  top: 566px;
+  background: url("../img/overlay.png") no-repeat 23px 10px; }
+
+#paper {
+  position: relative;
+  background: white no-repeat 18px 7px;
+  border: 6px solid #eaeaea;
+  margin: 0 auto 0px auto;
+  padding: 72px 0 120px 0;
+  width: 820px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+  #paper img {
+    display: block; }
+  #paper .line {
+    margin: 50px; }
+
+#dock {
+  position: fixed;
+  bottom: 0px;
+  height: 120px;
+  width: 820px;
+  border-bottom: 6px solid #eaeaea; }
+  #dock .dock-content {
+    display: block;
+    box-shadow: 0px -7px 14px 0px rgba(147, 147, 147, 0.17);
+    box-sizing: border-box;
+    background: white;
+    width: 820px;
+    margin: 0 auto;
+    height: 120px;
+    display: flex;
+    align-items: center; }
+    #dock .dock-content a {
+      display: block;
+      margin-left: 43px; }
+    #dock .dock-content .g {
+      margin-left: 46px; }
+    #dock .dock-content .h {
+      margin-left: 51px; }
