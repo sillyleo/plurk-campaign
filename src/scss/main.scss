@@ -5,6 +5,12 @@ body {
   -webkit-transform: scael(0.4);
 }
 
+a.youtube {
+	margin: 40px auto 0px auto;
+	display: block;
+	width: 135px;
+}
+
 .logo-holder {
   text-align: center;
 	width: 100%;
@@ -22,8 +28,9 @@ body {
 	width: 820px;
 	height: 2996px;
 	position: absolute;
-	top: 566px;
+	top: 790px;
 	background: url("../img/overlay.png") no-repeat 23px 10px;
+	// background-color: blue;
 }
 #paper {
 	position: relative;

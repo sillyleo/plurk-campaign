@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="67px" viewBox="0 0 173 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>F</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="173" height="67"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="173" height="67" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="合作社" transform="translate(-354.000000, -3156.000000)">
+            <g id="Dock" transform="translate(80.000000, 3129.000000)">
+                <g id="F" transform="translate(274.000000, 27.000000)">
+                    <use id="Rectangle-8" stroke="#FDD768" mask="url(#mask-2)" stroke-width="10" fill="#FDD768" xlink:href="#path-1"></use>
+                    <text id="2016.11.07" font-family="PingFangTC-Semibold, PingFang TC" font-size="19" font-weight="500" letter-spacing="4.46000004" fill="#000000">
+                        <tspan x="22.9664998" y="41">2016.11.0</tspan>
+                        <tspan x="142.5265" y="41">7</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
